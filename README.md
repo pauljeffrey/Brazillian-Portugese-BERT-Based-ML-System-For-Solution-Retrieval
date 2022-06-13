@@ -1,4 +1,4 @@
-# Text-Similarity-with-Brazillian-Portugese-BERT
+# A-Brazillian-Portugese-BERT-Based-ML-System-For-Solution-Retrieval
 
 ## INTRODUCTION
 This ML system was designed using a pretrained Brazillian BERT model at its core to retrieve the solutions to similar customer complaints (in text format) when given a new customer complaint.
